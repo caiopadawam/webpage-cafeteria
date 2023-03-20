@@ -1,4 +1,4 @@
-# Site para cafeteria
+# Site para cafeteria :coffee:
 
 Este é um projeto de uma página para uma empresa de cafés prontos, com informações sobre a loja e um catálogo de produtos. Este projeto utiliza **Django** no back-end e um template gratuito obtido do site [HtmlDesign](https://html.design/).
 

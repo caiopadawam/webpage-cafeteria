@@ -17,7 +17,7 @@ Caso você não queira utilizar o Docker, você precisará ter o **Python 3+** i
 
 ## Comandos
 Para iniciar o projeto com o Docker, execute o seguinte comando:
-
+- docker-compose up -d
 ## Licença
 Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais informações.
 
